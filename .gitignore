@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Virtual env
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# Logs
+*.log
+
+# Local data (keep if you want to version it)
+# data/
